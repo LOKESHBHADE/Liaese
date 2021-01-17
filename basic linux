@@ -1,0 +1,3 @@
+alias up="sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade"
+alias if="ifconfig"
+alias ifa="ifconfig -a"
